@@ -6,7 +6,7 @@ public class libraray_management {
         do{
             
         
-        System.out.println("*******libraray_management syatem********");
+        System.out.println("*******libraray_management system********");
         System.out.println("press 1 to add book");
         System.out.println("press 2 to issue book");
         System.out.println("press 3 to return a book");
@@ -77,9 +77,6 @@ System.out.println("Your details is " +Name+" "+  Price+" "+ Book_No );
     }
 
 
-// public void exit() {
-//     System.exit(0);
-//     }
 
 
 void issue(){
